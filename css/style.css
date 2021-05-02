@@ -1,0 +1,69 @@
+h3 {
+    text-align: center;
+    font-size: 40px;
+    color: rgb(233, 143, 143);
+}
+.fuente-italica-negrita {
+    font-style: italic;
+    font-weight: bold;
+}
+.box-1 {
+    background-color: rgb(27, 69, 67);
+    margin-left: 40px;
+    margin-right: 8px;
+    display: inline-block;
+    border: 10px solid rgb(36, 102, 100);
+    color: whitesmoke;
+    padding: 1.5em;
+    width: 150px;
+    font-size: 1.3em;
+    text-align: justify;
+}
+.box-2 {
+    background-color: rgb(24, 84, 52);
+    margin-left: 40px;
+    margin-right: 8px;
+    display: inline-block;
+    border: 10px dotted #0c2c1c;
+    color: whitesmoke;
+    padding: 1.5em;
+    width: 150px;
+    font-size: 1.3em;
+    text-align: justify;
+}
+.box-3 {
+    background-color: rgb(50, 46, 94);
+    margin-left: 40px;
+    margin-right: 8px;
+    display: inline-block;
+    border: 10px dashed #201c34;
+    color: whitesmoke;
+    padding: 1.5em;
+    width: 150px;
+    font-size: 1.3em;
+    text-align: justify;
+}
+.box-4 {
+    background-color:#282434;
+    margin-left: 40px;
+    margin-right: 8px;
+    display: inline-block;
+    border: 10px double #888cb4;
+    color: whitesmoke;
+    padding: 1.5em;
+    width: 150px;
+    font-size: 1.3em;
+    text-align: justify;
+}
+.box-5 {
+    background-color: #8034ac;
+    margin-left: 40px;
+    margin-right: 8px;
+    display: inline-block;
+    border: 10px groove #481c64;
+    color: whitesmoke;
+    padding: 1.5em;
+    width: 150px;
+    font-size: 1.3em;
+    text-align: justify;
+}
